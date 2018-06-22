@@ -39,7 +39,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <play.version>2.2.1</play.version>
     <play2-scala.version>2.10</play2-scala.version>
-    <scala.version>2.10.2</scala.version>
+    <scala.version>2.10.7</scala.version>
   </properties>
 
   <repositories>
@@ -182,7 +182,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>3.0.3</version>
+      <version>3.0.24</version>
     </dependency>
     <dependency>
       <groupId>com.typesafe.play</groupId>
